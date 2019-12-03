@@ -1,0 +1,3 @@
+In Python you can study English.
+In Python you can understand str, int, float, bool.
+In Python you can run project.
